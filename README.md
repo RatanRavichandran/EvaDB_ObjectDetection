@@ -37,7 +37,7 @@ Figure 1: Original Image
 
 <a href="https://ibb.co/vX5YvWG"><img src="https://i.ibb.co/FHvVq1M/Screenshot-2024-02-20-093929.png" alt="Screenshot-2024-02-20-093929" border="0"></a>
 
-Figure 2: Objects detected and annotated
+Figure 2: Objects detected and annotated.
 
 # Conclusion
 Ther YOLO-based system has proven effective in automating video object detection and annotation, easing labor-intensive processes. Future improvements may involve refining object boundaries through advanced post-processing techniques and integrating cloud-based services for scalable processing.
